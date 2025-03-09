@@ -12,14 +12,13 @@ export const App = () => {
       <Navbar />
       <div className="max-w-7xl mx-auto pt-20 px-6">
         <HeroSection />
-        <FeatureSection/>
-        <WorkFlow/>
-        <Pricing/>
-        <Testimonials/>
-        <Footer/>
+        <FeatureSection />
+        <WorkFlow />
+        <Pricing />
+        <Testimonials />
+        <Footer />
       </div>
     </>
   );
 };
 export default App;
- 
